@@ -11,5 +11,5 @@ A collection of DevOps resources
 ---
 
 ## Cluster Manager
-- ### Mesos YARN
+- Mesos YARN
     - [ ] [Apache Mesos vs. Hadoop YARN (video)](https://www.youtube.com/watch?v=aXJxyEnkHd4)
